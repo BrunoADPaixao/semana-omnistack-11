@@ -1,0 +1,16 @@
+1. Limpando a estrutura. ok
+2. Conceitos do React. ok
+  2.1. Componente. ok
+  2.2. JSX. ok
+  2.3. Propriedades. ok
+  2.4. Estados .ok
+  2.5. Imutabilidade. ok
+3. Página de login. ok
+4. Configurando rotas. ok
+  - npm install ract-router-dom. ok
+5. Cadastro de ONGs. ok
+6. Listagem de casos. ok
+7. Cadastro de um novo caso. ok
+8. Conectando aplicação à API
+  - npm install axios: client http
+9. Enviar projeto ao GitHub

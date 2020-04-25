@@ -1,0 +1,11 @@
+1. Instalar Expo. ok
+2. Criando projeto React Native. ok
+3. Executando projeto. ok
+  - No celular. ok
+  - No emulador. ok
+4. Diferenção para o ReactJS.
+5. Ícone e splash scree.
+6. Configurar navegação do app.
+  - npm instal @react-navigation/native
+  - npm instal @react-navigation/stack
+  - expo install  expo-constants

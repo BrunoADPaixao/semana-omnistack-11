@@ -1,0 +1,20 @@
+Checklist do Backend BeTheHero
+
+1. COnfigurar o banco de dados. ok
+2. Construção do backend. ok
+3. Adicionando módulo CORS. ok
+4. Enviando back-end ao GitHub
+
+Entidades
+* ONG
+* Caso (Incident)
+
+Funcionalidades
+* Login de ONG
+* Logout de ONG
+* Cadastro de ONG. ok
+* Cadastrar novos casos. ok
+* Deletar casos. ok
+* Listar casos específicos de uma ONG. ok
+* Listar todos os casos. Implementar paginação. ok
+* Entrar em contato com a ONG. !
